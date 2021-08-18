@@ -1,0 +1,19 @@
+// npm : node packege manager(differnet packeges download)-third party or module
+//npm : node js 
+// scrath application or coiler plate(bani banai basic application)
+// CDN of REACt js
+//two way creating components(function based(most usefull) and class based)
+//type =" text / bable"
+//cdn and bable cdn
+// jsx : java script xml
+//bable : complier or transplier covert the jsx to javascript code
+//in mobile application we dont need to use REACTDOM
+//npx(used for create react project) and npm
+//npx : npx create-react-app demo-app
+//react and virtual dom(in this it match with actual dom if same data is occur then if differnet occur then only chagne that part in actual dom using virtual dom if dont chagne then it donot render again )
+//actual dom vs virtual dom
+//page fast in react 
+// one way flow
+//declatrtive library
+//npm i -g yarn
+

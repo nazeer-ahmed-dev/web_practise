@@ -1,0 +1,49 @@
+body{
+ background-color: cornsilk;
+}
+.outer
+{
+    width: 500px;
+    height: 300px;
+    opacity: 70%;
+    background-color: black;  
+    text-align: center;     
+    box-shadow: 5px 5px 5px 5px black;
+   align-items: center;
+    align-content: center;
+  
+}
+#inner_id
+{
+   width: 200px;  
+}
+#inner_id > input
+{
+    padding: 8px;
+    margin: 5px;
+    background-color: black;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-color: white;
+}
+#inner_id > button
+{
+    width: 180px;
+    height: 30px;
+    background-color: black;
+    color: white;
+    box-shadow: 2px 2px 2px px white;
+    border-color: white;
+    border-radius: 50px;
+    
+}
+
+#login_btn:hover{
+
+background-color: cornsilk;
+color: black;
+width: 200px;
+height: 35px;
+font-weight: bold;
+
+}

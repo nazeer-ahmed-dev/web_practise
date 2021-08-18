@@ -1,0 +1,35 @@
+// npm : node packege manager(differnet packeges download)-third party or module
+//npm : node js 
+// scrath application or coiler plate(bani banai basic application)
+// CDN of REACt js
+//two way creating components(function based(most usefull) and class based)
+//type =" text / bable"
+//cdn and bable cdn
+// jsx : java script xml
+//bable : complier or transplier covert the jsx to javascript code
+//in mobile application we dont need to use REACTDOM
+//npx(used for create react project) and npm
+//npx : npx create-react-app demo-app
+//react and virtual dom(in this it match with actual dom if same data is occur then if differnet occur then only chagne that part in actual dom using virtual dom if dont chagne then it donot render again )
+//actual dom vs virtual dom
+//page fast in react 
+// one way flow
+//declatrtive library
+//npm i -g yarn
+//npm install (when deleting any file)
+//REACTDOM we use when we are working on webapplication
+//if we are working on app based application then we need only react
+// class based component and function based commponet
+//in function base component we dont need to render method
+//webback: bundler
+//if we are rendring same component with multiple time then it wil render 2nd component(becaue of vrtual dom)
+//how babel covert the code into javascript
+//background-color  == backgroundColor
+//porps object readonly
+//npm i prop-types 
+//rendring again and again its not good practise so we have to use state
+//render and commit phase
+//e.preventDefault() // when we click on submit then its go on its default behavoir to break (Rokna) we have to preventDefault
+//bind: to insialze state or any function this keyword so to bind that function we use bind 
+//without bind we have to use array function we are calling that function 
+// <button onClick={this.chng}>Click me</button>  is equavlent = onClick={()=>{this.clickme()}} // then dont nend to use bind

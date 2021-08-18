@@ -1,0 +1,10 @@
+#cal
+{
+    margin: 20px;
+    width: 500px;
+}
+.btn > button
+{
+    padding: 25px;
+    margin: 10px;
+}

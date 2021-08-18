@@ -1,0 +1,41 @@
+Introduction :
+    > A runtime environment for excecuting javaScript Code out side the browser
+    > BAck end services api
+    > Highly-scalable, data-intensive and real time apps
+    > Greate for prototyping and agile development
+    > Superfast and highly scalable
+Node Archictecture
+    > Microsfit Edge : Chkra(engine) javascript to machine code 
+    > Firefox        : spiderMonkery(engine) javacript to machine code
+    > Chrome         : v8 (engine) javacript to machine code
+How Node Work
+    > Non-blocking (Asynchronous)
+    > Blocking (Syncronous)
+    > node is ideal for I/O-intensive apps
+    > Do not use Node for CPU-instensive apps
+Node Module System
+    > Os 
+    > fs (file system)
+    > http
+    > events
+Clientside javascript run in side the browser
+Modules
+    > function is defind in global scope
+    > if we are defining the same name function in more than one file then it will overrivde pervous global function so the solution of this MODULE
+    > function scoped in that file 
+    > new module new .js file
+    > exporting and importng moduels
+jshint app.js / will show the error
+mdoule Wrapper function
+    > paramaeters : exports , require, module, __filename,__dirname
+path module
+    > object include : root,dir,base,ext,name
+Os
+File System Module 
+    > read directories
+    > error
+    > displaying files
+Event 
+    > a signal that something has happend
+    > http
+    > reading new request

@@ -1,0 +1,30 @@
+communication between client and server
+crud operation
+    > Read
+    > Delete
+    > update
+    > create
+Http methods
+    > get    : getting data
+    > post   : for creating data
+    > put    : updataing data
+    > delete : deleting daat 
+
+    Get /api/customers
+    Get /api/customers/1
+    Put /api/customers/1
+    Delete /api/customers/1
+    post /api/customerss
+npm init --yes
+npm i express
+
+node Mon : node monitor
+    > npm i -g nodemon
+    > wathcing all the 
+    > it also tell that any changes occurs 
+    > like liverserver
+enivorment variable
+sortby
+    > localhost:3000/api/posts/2018/1?sortBy=name
+res.send(req.parms) or res.send(req.query) // for multiple inputs
+npm joi for validation input 
